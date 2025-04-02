@@ -1,0 +1,31 @@
+h2 {
+    text-align: center;  
+    font-family: "Cherry Cream Soda", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150;
+}
+ul{
+    padding:10px;
+}
+li {
+    display: inline;
+    padding: 0px, 10px, 0px, 10px;
+}
+header {
+    text-align: center;
+    background-color: olive;
+    background-size: 20px;
+    padding: 20px,0px,0px,0px
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+#myimage
+{
+    margin: 40px 0px 0px 0px;
+    border: 7px solid white;
+    border-radius: 20px;
+  }
